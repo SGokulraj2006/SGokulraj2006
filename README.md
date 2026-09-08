@@ -239,7 +239,7 @@ Completed **MongoDB Basics for Students**, gaining exposure to NoSQL database co
 
 ## 🎨 Technology Learning
 
-### 🏅 3D Webinar — Design, Develop, Deploy
+### 🏅 EMC 3D Webinar — Design, Develop, Deploy
 
 Participated in a technology learning program focused on concepts related to:
 
