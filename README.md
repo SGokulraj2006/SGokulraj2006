@@ -55,19 +55,17 @@ My areas of focus include:
 
 # 🎓 Education
 
-🎓 **Computer Science Student**
+🏛️ **College:** Dr. N.G.P. Arts and Science College
 
-📚 **Department:** Computer Science
+🎓 **Degree:** Bachelor of Science (B.Sc.) in Information Technology
 
-📍 **College Location:** Coimbatore, Tamil Nadu, India
+📚 **Department:** Information Technology
 
 🏠 **Home Town:** Tirupur, Tamil Nadu, India
 
-🇮🇳 **India**
+🇮🇳 **Country:** India
 
-My academic and professional learning journey focuses on programming, software development, databases, web technologies, and practical application development.
-
----
+I am currently building my technical foundation through academic learning, practical projects, certifications, internship experience, and continuous exploration of modern software technologies.
 
 # 💻 Technical Skills
 
