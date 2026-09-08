@@ -22,7 +22,7 @@
 
 # 👨‍💻 About Me
 
-Hello! I'm **Gokulraj S**, an aspiring **Java Full Stack Developer** with a strong interest in software development, backend technologies, web applications, databases, and modern digital solutions.
+Hello! I'm aspiring **Java Full Stack Developer** with a strong interest in software development, backend technologies, web applications, databases, and modern digital solutions.
 
 I enjoy learning how software applications are designed and developed, and how technology can be used to solve real-world problems. My primary focus is on strengthening my knowledge in **Java, Spring Boot, Full Stack Development, databases, web technologies, and REST API development**.
 
